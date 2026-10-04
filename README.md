@@ -11,6 +11,8 @@
 
 **Telegram:** @Oleg7160
 
+**Дашборд:** [Открыть в DataLens](https://datalens.ru/ghcevontg68iz-konferencii-ted?_share_link=org)
+
 ---
 
 ## Используемые инструменты
@@ -126,6 +128,7 @@
 7. Информация о выступающих.
 8. Детализация по выступлениям.
 
+[Открыть дашборд](https://datalens.ru/ghcevontg68iz-konferencii-ted?_share_link=org)
 
 ---
 
